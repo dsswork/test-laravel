@@ -7,7 +7,7 @@
 
 
 ### Base Settings
-1. Run git clone 
+1. Run git clone git@github.com:dsswork/test-laravel.git
 2. Run cp .env.example .env
 3. Set up your settings in .env:
     - DOCKER_NGINX_PORT
